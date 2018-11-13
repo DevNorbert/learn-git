@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA,KAAM;EACF,gBAAgB,EAAE,SAAS",
-"sources": ["../sass/_grid.scss"],
+"mappings": "AAAA,KAAM;EACF,gBAAgB,EAAE,SAAS;;ACE/B,YAAY;AACZ,OAAQ;EACJ,gBAAgB,EAAE,IAAI;EACtB,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI",
+"sources": ["../sass/_grid.scss","../sass/style.scss"],
 "names": [],
 "file": "style.css"
 }
